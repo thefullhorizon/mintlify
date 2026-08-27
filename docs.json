@@ -17,15 +17,7 @@
           "quickstart"
         ]
       },
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
-      },
-      "test",
-      "untitled-page"
+      "test"
     ],
     "global": {
       "anchors": [
